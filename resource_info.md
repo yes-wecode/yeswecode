@@ -38,6 +38,10 @@ Rails Girls
 
 程序媛计划（陈斌）
 
+[Women Who Code](https://www.womenwhocode.com)
+
+[Girls Who Code Movement](https://girlswhocode.com)
+
 ## 视频：
 
 https://www.youtube.com/user/hellomayuko 油管博主mayuko有些ios基础入门视频还有职业规划和她自己的软件从业经历蛮有趣
